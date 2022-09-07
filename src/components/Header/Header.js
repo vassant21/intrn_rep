@@ -3,10 +3,10 @@ import './Header.css'
 export default function Header()
 {
     return(
-        <h2>
+        <h1>
             One Piece
 
-        </h2>
+        </h1>
     )
 }
 
